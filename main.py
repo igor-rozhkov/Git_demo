@@ -20,3 +20,5 @@
 # print(len(str((a))))
 # print('1' in str(a))
 
+def mult(a,b):
+    return a*b
